@@ -15,8 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DakshBalyan-Coder&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshBalyan-Coder&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DakshBalyan-Coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@DakshBalyan7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
