@@ -1,6 +1,6 @@
 
 <img align="right" alt="Coding" width="" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
- 💫 About Me:
+ 💫 #About Me:
 <br>- Software developer with a passion for DSA in Java and front-end development.<br>- Strong expertise in data structures, algorithms, and object-oriented programming in Java.<br>- Experience in front-end technologies like HTML, CSS, JavaScript, and modern front-end frameworks such as React.<br>- Currently expanding my skillset in front-end development, focusing on building responsive and user-friendly web applications.<br>- Actively learning and implementing best practices in software development, code optimization, and performance tuning.<br>- Proficient in version control using Git .<br>- Detail-oriented and committed to writing clean, maintainable, and efficient code.<br>- Actively seeking opportunities to apply my skills and contribute to innovative projects.
 
 
